@@ -1,3 +1,5 @@
-# Static blog sample Tailwind CSS + Alipine.js
+# blog-ta1
 
-ブログテーマを作る際のサンプルに用意したサイトになります。
+ブログテーマを Tailwind CSS + Alpine.js で静的な HTML で用意したものを公開しました。
+
+JavaScript のライブラリは CDN で用意していますが、最終的にはビルドした方がオススメです。
